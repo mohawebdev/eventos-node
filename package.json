@@ -1,0 +1,24 @@
+{
+    "name": "MOOC_node_mod1-eventos_entrega",
+    "author": "ging-moocs",
+    "license": "GNU",
+    "version": "0.0.0",
+    "info": {
+        "githubURL": "ging-moocs/MOOC_node_mod1-eventos_entrega",
+        "serverUrl": "https://moocbot.dit.upm.es/",
+        "courseId": "1601",
+        "assignmentId": "982"
+    },
+    "engines": {
+        "node": ">=16.8.0",
+        "npm": ">=7.21.0"
+    },
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "autocorector": "^3.1.3",
+        "later": "^1.2.0"
+    }
+}
